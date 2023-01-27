@@ -39,7 +39,9 @@ class LoginComponents extends Component {
  
   loginClicked(){
     if(this.state.Username==='tanu'&& this.state.Password==='gaur')
-    console.log("Login Sucessful")
+  {  console.log("Login Sucessful")
+     console.log()
+  }
   else
   console.log("Failed Entry")
   }
