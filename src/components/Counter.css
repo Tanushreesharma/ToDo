@@ -1,0 +1,28 @@
+button{
+    color: wheat;
+    background-color: green;
+    font-size: 16px;
+    padding: 15px 30px;
+    width: 100px;
+}
+    .count {
+        font-size:50px;
+        padding : 15px 30px
+        
+
+    }
+   .centerr{
+    text-align: center;
+   }
+
+   .reset{
+    color: wheat;
+    background-color: red;
+    font-size: 16px;
+    padding: 15px 30px;
+    width: 200px;
+
+   }
+   body{
+    padding: 15px 30px;
+   }
